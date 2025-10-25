@@ -113,7 +113,7 @@ This section details the specific textual changes made to the prompt after the f
 * **Changes to Style/Artistic Influence:** To move from a generic digital render to the original's high-quality look, technical photography terms were introduced. These included: "**hyper-detailed, cinematic photography, 8k resolution, slight film grain**." This instructed the AI to treat the image as a high-end photograph rather than simple digital art.
 * **Specific Instructions for Lighting or Composition:** To correct the incorrect perspective and mood, precise directional terms were added. This involved specifying the atmosphere with "**volumetric lighting, deep shadows, high contrast**," and defining the key textural element: "**glossy wet pavement reflecting neon light**." The desired viewing angle was also enforced with "**low angle view**."
 
-### What I Redefined for the Cartoon Style:
+### B. What I Redefined for the Cartoon Style:
 
 Got it! Let's redefine the "Guardian of the Verdant Drum" in a cartoon style.
 
@@ -145,5 +145,8 @@ Details: Simplified fur textures, softened lines, and added a touch of whimsical
 
 Overall Mood: Emphasized cheerfulness, cuteness, and playfulness over the previous "guardian" seriousness.
 ![WhatsApp Image 2025-10-25 at 13 55 53_8f05e27d](https://github.com/user-attachments/assets/532c7e7d-e1da-430c-97cf-4da8e2a112e2)
+
+# Conclusion
+By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications
 
 
